@@ -1,4 +1,3 @@
-Here's a comprehensive `README.md` file for your project "Story Sphere":
 
 ```markdown
 # Story Sphere: Interactive Storytelling App
