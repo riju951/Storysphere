@@ -1,5 +1,3 @@
-
-```markdown
 # Story Sphere: Interactive Storytelling App
 
 Welcome to **Story Sphere**, a collaborative storytelling platform where you can create unique narratives with strangers. This application allows individuals from diverse backgrounds to contribute to a collective story, enhancing creativity and connection among users.
@@ -7,14 +5,6 @@ Welcome to **Story Sphere**, a collaborative storytelling platform where you can
 ## Application Overview
 
 **Story Sphere** is built using a modern tech stack that includes Next.js for the frontend and Supabase for backend services. The app provides an engaging user experience, allowing users to add their story contributions and edit existing narratives seamlessly.
-
-### Live Application
-
-You can view and interact with the live application here: [Story Sphere](storycreator-app.vercel.app)
-
-### Tutorial Guide
-
-For a detailed guide on how to build a similar application, check out this comprehensive tutorial: [Learn to Use Supabase with Next JS](https://aahiknsv.hashnode.dev/learn-to-use-supabase-with-next-js-a-beginner-friendly-application)
 
 ## Features
 
@@ -27,6 +17,7 @@ For a detailed guide on how to build a similar application, check out this compr
 - **[Next JS](https://nextjs.org/)**: A React framework for production.
 - **[Tailwind CSS](https://tailwindcss.com/)**: A utility-first CSS framework for rapid UI development.
 - **[Supabase](https://supabase.io/)**: An open-source Firebase alternative providing all the backend services you need.
+
 
 ## Getting Started
 
@@ -73,14 +64,8 @@ Contributions are welcome! If you have a feature request or bug report, please f
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
-## Acknowledgments
-
-- Thanks to all the contributors who spend time in improving this project.
-- Special thanks to [Hashnode](https://hashnode.com/) for hosting the tutorial that inspired this application.
 
 ---
 
 Happy Storytelling! 📖✨
 ```
-
-This README provides a complete overview of your project including how to get started, features, and the technologies used. You can adjust the repository link and other specific details as per your actual project setup.
